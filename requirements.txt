@@ -1,0 +1,22 @@
+# Core vector database
+chromadb==0.5.5
+
+# Embeddings (local, free)
+sentence-transformers==3.0.1
+torch>=2.2.0
+
+# Data handling
+requests==2.32.5
+pandas==2.2.2
+numpy>=1.26.0
+
+# Environment variables
+python-dotenv==1.0.1
+
+# Spotify API (optional but recommended)
+spotipy==2.24.0
+
+# Optional LLM integration
+# openai==1.40.0
+
+fastapi==0.112.0
