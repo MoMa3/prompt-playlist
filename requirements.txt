@@ -14,7 +14,7 @@ numpy>=1.26.0
 python-dotenv==1.0.1
 
 # Spotify API (optional but recommended)
-spotipy==2.24.0
+spotipy==2.25.2
 
 # Optional LLM integration
 # openai==1.40.0
